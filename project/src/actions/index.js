@@ -1,0 +1,1 @@
+export { getData, FETCH_GENRES_START, FETCH_GENRES_SUCCESS, FETCH_GENRES_FAILURE } from './genreActions'
